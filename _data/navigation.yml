@@ -16,7 +16,7 @@ main:
     url: /resources/
     
   - title: "Maps"
-    url: /talkmap/
+    url: /talkmap.html
     
   - title: "CV"
     url: /cv/
