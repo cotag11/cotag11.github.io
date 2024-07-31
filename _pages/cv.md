@@ -20,15 +20,12 @@ Work experience
 **05/2023 - present**</br>
 **Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)</br>
 
-<ul style="line-height:0.4;">
+
 <li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
 <li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
 <li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
 <li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
 
-
-</ul>
-</br>
 
 **01/2022 - 04/2023**</br>
 **GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)</br>
@@ -42,9 +39,46 @@ Work experience
 
 </ul>
 
+**01/2022 - 04/2023**
+**GIS Technical Specialist** at [Colorado College](https://www.coloradocollege.edu/)
 
+<ul style="line-height:0.4;">
+<li>Mentored students on GIS analytic methods and best practices when it comes to using the ArcGIS software. </li>
+<li>Created training materials for the introductory GIS course, instructed and evaluated final projects.  </li>
+<li>Consulted with faculty on their projects and how GIS data or methods could be utilized. </li>
+</ul>
 
-  
+**11/2019 - 08/2021**</br>
+**Student Worker** at [Saint Louis University](https://www.slu.edu/index.php)</br>
+
+<ul style="line-height:0.4;">
+<li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
+<li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
+<li>UAV image processing- creating image mosaic, DEM generation.</li>
+<li>Digitizing of field layout using RGB immagery. </li>
+
+</ul>
+
+****</br>
+**** at []()</br>
+
+<ul style="line-height:0.4;">
+<li></li>
+<li></li>
+<li></li>
+
+</ul>
+
+****</br>
+**** at []()</br>
+
+<ul style="line-height:0.4;">
+<li></li>
+<li></li>
+<li></li>
+
+</ul>
+
 Skills
 ======
 * Skill 1
