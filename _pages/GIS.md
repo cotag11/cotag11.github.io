@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-**Community Benefits Scorecard**<br>
-View the dynamic web application for this [scorecard here](https://experience.arcgis.com/experience/59fdb098b25146bca7063802e1bb3c2a/page/Residential/?draft=true). This scorecard was created to inform the Economic Development Incentives team about the score of potenial projects depending on which category they fall under- Residential, Commercial or Mixed Use. Some of the variables considered while creating the score are transit access, whether or not it is a vacant building, its location etc. There is a maximum number of points available for each of these categories. <br>
-The data behind this scorecard was queried using SQL, and automated using Python and windows task scheduler. 
-<img src='/images/communityscorecard.png'>
+<h2>[ARPA Transparency Portal](https://insights.arcgis.com/#/view/2f02aea33af84a8381c78d4de648f67c)</h2><br>
+This interactive dashboard was created through ArcGIS Insights. It serves as the transparency portal for appropriations, programmed funds and expenditures as it relates to the American Rescue Plan Act projects. <br>
+<img src='/images/arpa.png'> <br> 
+
+<h2>[Community Benefits Scorecard](https://experience.arcgis.com/experience/59fdb098b25146bca7063802e1bb3c2a/page/Residential/?draft=true)</h2><br>
+This scorecard was created to inform the Economic Development Incentives team about how each potenial project scored against the pre-determined variables and depending on which category they fall under- Residential, Commercial or Mixed Use. The variables considered while creating the score are transit access, whether or not it is a vacant building, its location etc. There is a maximum number of points available for each of these variables. <br>
+The data behind this scorecard was queried using SQL, and automated using Python and windows task scheduler.  <br>
+<img src='/images/communityscorecard.png'> <br> 
+
+
+
