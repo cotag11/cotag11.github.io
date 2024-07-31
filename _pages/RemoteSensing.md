@@ -14,6 +14,10 @@ Published thesis
 
 <h2>Missouri as Art</h2>
 
-<img src='/images/johnson.png', style="width: 300px; height: auto;"> 
-<img src='/images/stl.png', style="width: 300px; height: auto;"> 
-<img src='/images/geometric.png', style="width: 300px; height: auto;"> <br> 
+<body>
+<div class="image-container">
+<img src='/images/johnson.png' style="width: 300px; height: auto; margin-right: 10px;"> 
+<img src='/images/geometric.png' style="width: 300px; height: auto; margin-right: 10px;"> 
+<img src='/images/stl.png' style="width: 300px; height: auto; margin-right: 10px;"> 
+</div>   
+</body>
