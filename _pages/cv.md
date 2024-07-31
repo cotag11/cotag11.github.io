@@ -12,14 +12,12 @@ redirect_from:
 Education
 ======
 M.S. in Geographic Information Science, Saint Louis University, 2021 
-
-&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 
+<br>&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 
 <br>B.S. in Geology, Saint Xaviers College, 2018
 
 Work experience
 ======
-**05/2023 - present**
-
+**05/2023 - present**<br>
 **Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)
 <li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
 <li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
@@ -35,8 +33,14 @@ Work experience
 <li>Maintaining and creating web applications and maps for both internal and external use.</li>
 <li>Creating and implementing workflows for repetitive tasks; Using model builder to automate data updates.</li>
 
-**01/2022 - 04/2023**
+**01/2022 - 04/2023**<br>
 **GIS Technical Specialist** at [Colorado College](https://www.coloradocollege.edu/)
+
+o	Created training materials for the introductory GIS course, instructed and evaluated final projects. <br>
+o	Mentored students on GIS analytic methods and best practices when it comes to using the ArcGIS software. <br>
+o	Consulted with faculty on their projects and how GIS data or methods could be utilized. <br>
+
+
 <ul style="line-height:0.8;">
   height- 0.8
 <li>Mentored students on GIS analytic methods and best practices when it comes to using the ArcGIS software. </li>
