@@ -23,6 +23,11 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 <li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
 <li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
 <li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
+•	Assisted researchers with incorporating geospatial datasets, creating charts summarizing results and presenting to stakeholders. <br>
+•	Generated interest in using geospatial best practices for a mobile and web application focusing on spatial humanities. <br>
+•	Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. <br>
+•	Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. <br>
+•	Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. <br>
 
 
 **01/2022 - 04/2023**<br>
@@ -46,8 +51,9 @@ o	Consulted with faculty on their projects and how GIS data or methods could be 
 <li>Created training materials for the introductory GIS course, instructed and evaluated final projects.  </li>
 <li>Consulted with faculty on their projects and how GIS data or methods could be utilized. </li>
 </ul>
+<h2>Related experience</h2>
 
-**11/2019 - 08/2021**
+**11/2019 - 08/2021**<br>
 **Student Worker** at [Saint Louis University](https://www.slu.edu/index.php)
 
 <ul style="line-height:1;">
@@ -59,7 +65,7 @@ o	Consulted with faculty on their projects and how GIS data or methods could be 
 
 </ul>
 
-**01/2019 - 05/2019**
+**01/2019 - 05/2019**<br>
 **Lead Geospatial Intern** at [Countering Wildlife Trafficking Institute](https://www.cwtinstitute.org/)
 
 <ul style="line-height:2;">
@@ -71,12 +77,12 @@ o	Consulted with faculty on their projects and how GIS data or methods could be 
 ****
 **** at []()
 
-<ul style="line-height:0.4;">
+
 <li></li>
 <li></li>
 <li></li>
 
-</ul>
+
 
 Skills
 ======
