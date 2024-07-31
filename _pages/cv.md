@@ -52,7 +52,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 **11/2019 - 08/2021**<br>
 **Student Worker** at [Saint Louis University](https://www.slu.edu/)
 <li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
-<li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
+<li>Creation of an open-source web application for the purpose of resource distribution after disasters. </li>
 <li>UAV image processing- creating image mosaic, DEM generation.</li>
 <li>Digitizing of field layout using RGB immagery. </li>
 
