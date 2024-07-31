@@ -26,6 +26,7 @@ Work experience
 <li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
 <li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
 
+
 **01/2022 - 04/2023**<br>
 **GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)
 <li>Managing data on an ArcGIS Enterprise Server; querying data on the SQL Server. </li>
