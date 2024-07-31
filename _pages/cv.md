@@ -11,47 +11,41 @@ redirect_from:
 
 Education
 ======
-M.S. in Geographic Information Science, Saint Louis University, 2021 </br>
-&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 </br>
+M.S. in Geographic Information Science, Saint Louis University, 2021 
+&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 
 B.S. in Geology, Saint Xaviers College, 2018
 
 Work experience
 ======
-**05/2023 - present**</br>
-**Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)</br>
-
-
+**05/2023 - present**
+**Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)
 <li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
 <li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
 <li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
 <li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
 
-
-**01/2022 - 04/2023**</br>
-**GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)</br>
-
-<ul style="line-height:0.4;">
+**01/2022 - 04/2023**
+**GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)
 <li>Managing data on an ArcGIS Enterprise Server; querying data on the SQL Server. </li>
 <li>Leveraging ESRI technology to create an ARPA (American Rescue Plan Act) transparency portal. </li>
 <li>Manipulating existing data to determine Parcel Ownership within the City. </li>
 <li>Maintaining and creating web applications and maps for both internal and external use.</li>
 <li>Creating and implementing workflows for repetitive tasks; Using model builder to automate data updates.</li>
 
-</ul>
-
 **01/2022 - 04/2023**
 **GIS Technical Specialist** at [Colorado College](https://www.coloradocollege.edu/)
-
-<ul style="line-height:0.4;">
+<ul style="line-height:0.8;">
+  height- 0.8
 <li>Mentored students on GIS analytic methods and best practices when it comes to using the ArcGIS software. </li>
 <li>Created training materials for the introductory GIS course, instructed and evaluated final projects.  </li>
 <li>Consulted with faculty on their projects and how GIS data or methods could be utilized. </li>
 </ul>
 
-**11/2019 - 08/2021**</br>
-**Student Worker** at [Saint Louis University](https://www.slu.edu/index.php)</br>
+**11/2019 - 08/2021**
+**Student Worker** at [Saint Louis University](https://www.slu.edu/index.php)
 
-<ul style="line-height:0.4;">
+<ul style="line-height:1;">
+  ul line height 1
 <li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
 <li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
 <li>UAV image processing- creating image mosaic, DEM generation.</li>
@@ -59,18 +53,17 @@ Work experience
 
 </ul>
 
-****</br>
-**** at []()</br>
+**01/2019 - 05/2019**
+**Lead Geospatial Intern** at [Countering Wildlife Trafficking Institute](https://www.cwtinstitute.org/)
 
-<ul style="line-height:0.4;">
-<li></li>
-<li></li>
-<li></li>
-
+<ul style="line-height:2;">
+<li>Led the geospatial analysis for combating wildlife trafficking efforts that resulted in conclusions benefiting the protection of African Elephant in Dzanga Sangha Protected Area in Central African Republic using ArcGIS products</li>
+<li>Created surveys using Survey123 to aid in daily field data collection by the rangers. </li>
+<li>Uploaded and maintained data to Online GIS portal; performed relevant analysis and created informative maps. </li>
 </ul>
 
-****</br>
-**** at []()</br>
+****
+**** at []()
 
 <ul style="line-height:0.4;">
 <li></li>
