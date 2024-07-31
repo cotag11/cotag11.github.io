@@ -60,7 +60,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 **Lead Geospatial Intern** at [Countering Wildlife Trafficking Institute](https://www.cwtinstitute.org/)
 <li>Led the geospatial analysis for combating wildlife trafficking efforts that resulted in conclusions benefiting the protection of African Elephant in Dzanga Sangha Protected Area in Central African Republic using ArcGIS products</li>
 <li>Created surveys using Survey123 to aid in daily field data collection by the rangers. </li>
-<li>Uploaded and maintained data to Online GIS portal; performed relevant analysis and created informative maps. </li>
+<li>Uploaded and maintained data to Online GIS portal; performed relevant analysis and created informative maps. </li><br>
 
 
 Skills
