@@ -11,26 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+M.S. in Geographic Information Science, Saint Louis University, 2021 </br>
+&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 </br>
+B.S. in Geology, Saint Xaviers College, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**05/2023 - present**</br>
+**Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)</br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<ul style="line-height:0.4;">
+<li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
+<li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
+<li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
+<li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+</ul>
+</br>
+
+**01/2022 - 04/2023**</br>
+**GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)</br>
+
+<ul style="line-height:0.4;">
+<li>Managing data on an ArcGIS Enterprise Server; querying data on the SQL Server. </li>
+<li>Leveraging ESRI technology to create an ARPA (American Rescue Plan Act) transparency portal. </li>
+<li>Manipulating existing data to determine Parcel Ownership within the City. </li>
+<li>Maintaining and creating web applications and maps for both internal and external use.</li>
+<li>Creating and implementing workflows for repetitive tasks; Using model builder to automate data updates.</li>
+
+</ul>
+
+
+
   
 Skills
 ======
