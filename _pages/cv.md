@@ -42,7 +42,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 <h2>Related experience</h2>
 
 **11/2019 - 08/2021**<br>
-**Student Worker** at [Saint Louis University](https://www.slu.edu/index.php)
+**Student Worker** at [Saint Louis University](https://www.slu.edu/)
 <li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
 <li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
 <li>UAV image processing- creating image mosaic, DEM generation.</li>
@@ -57,7 +57,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 
 
 **06/2021 - 08/2022**<br>
-**Graduate Thesis** at [Saint Louis Universtiy](https://www.slu.edu/index.php)
+**Graduate Thesis** at [Saint Louis Universtiy](https://www.slu.edu/)
 <li>Creation of a Land Cover map for forest conservation using machine learning and deep learning algorithms. </li>
 <li>Compared various pixel-based algorithms with deep learning methods though rigorous scientific hypothesis testing. </li>
 <li>Spatiotemporal analysis of change in the protected reserve from 2010 to 2019.</li>
