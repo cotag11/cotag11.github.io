@@ -12,19 +12,21 @@ redirect_from:
 Education
 ======
 M.S. in Geographic Information Science, Saint Louis University, 2021 
+
 &nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 
-B.S. in Geology, Saint Xaviers College, 2018
+<br>B.S. in Geology, Saint Xaviers College, 2018
 
 Work experience
 ======
 **05/2023 - present**
+
 **Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)
 <li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
 <li>Utilized Planet APIs to download imagery data for researchers as well as to manage usage across 8 consortium institutions. </li>
 <li>Analysed LiDAR and multispectral raster datasets, overlaid over related vector datasets & produced visuals for presentation. </li>
 <li>Utilizing Suryey123 to create intake surveys for tracking data requests, and to track the drone flights during field collection season. </li>
 
-**01/2022 - 04/2023**
+**01/2022 - 04/2023**<br>
 **GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)
 <li>Managing data on an ArcGIS Enterprise Server; querying data on the SQL Server. </li>
 <li>Leveraging ESRI technology to create an ARPA (American Rescue Plan Act) transparency portal. </li>
