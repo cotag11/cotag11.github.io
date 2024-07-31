@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Gizelle Cota"
   pronouns         : # example: "she/her"  
-  bio              : "test short bio"
+  bio              : "Geospatial Data Scientist"
   location         : "St Louis"
-  employer         : "Saint Louis University"
+ #employer         : "Saint Louis University"
   uri              : # URL
   email            : "gizellecota97@gmail.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wcLPinIAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
   
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
