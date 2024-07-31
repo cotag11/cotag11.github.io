@@ -20,5 +20,5 @@ This [Community Benefit Scorecard](https://experience.arcgis.com/experience/59fd
 The data behind this scorecard was queried using SQL, and automated using Python and windows task scheduler.  <br>
 <img src='/images/communityscorecard.png'> <br> 
 
-In addition to these public facing ones, I also created internal facing dashboards and applications
+**In addition to these public facing ones, I also created internal facing dashboards and applications**
 
