@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Geospatial Projects"
-permalink: /GIS/
+title: "Remote Sensing Projects"
+permalink: /RemoteSensing/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <h2>ARPA Transparency Portal</h2>
+dsfs
+fsdfs
+sfds
