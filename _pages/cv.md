@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2>Education</h2>
+
 M.S. in Geographic Information Science, Saint Louis University, 2021 
 <br>&nbsp; &nbsp; &nbsp; Study Abroad at Saint Louis University, 2019 
 <br>B.S. in Geology, Saint Xaviers College, 2018
 
-Work experience
-======
+<h2>Work experience</h2>
+
 **05/2023 - present**<br>
 **Geospatial Data Scientist** at [Taylor Geospatial Institute](https://taylorgeospatial.org/)
 <li>Assisted researchers with incorporating geospatial datasets; Generated interest in using geospatial best practices. </li>
@@ -34,8 +34,7 @@ Work experience
 <li>Creating and implementing workflows for repetitive tasks; Using model builder to automate data updates.</li>
 
 **01/2022 - 04/2023**<br>
-**GIS Technical Specialist** at [Colorado College](https://www.coloradocollege.edu/)
-
+**GIS Technical Specialist** at [Colorado College](https://www.coloradocollege.edu/)<br>
 o	Created training materials for the introductory GIS course, instructed and evaluated final projects. <br>
 o	Mentored students on GIS analytic methods and best practices when it comes to using the ArcGIS software. <br>
 o	Consulted with faculty on their projects and how GIS data or methods could be utilized. <br>
