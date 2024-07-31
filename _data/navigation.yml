@@ -1,22 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "GIS"
+    url: /GIS/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Remote Sensing"
+    url: /RemoteSensing/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Resources"
+    url: /resources/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
