@@ -41,21 +41,6 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 
 <h2>Related experience</h2>
 
-**11/2019 - 08/2021**<br>
-**Student Worker** at [Saint Louis University](https://www.slu.edu/)
-<li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
-<li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
-<li>UAV image processing- creating image mosaic, DEM generation.</li>
-<li>Digitizing of field layout using RGB immagery. </li>
-
-
-**01/2019 - 05/2019**<br>
-**Lead Geospatial Intern** at [Countering Wildlife Trafficking Institute](https://www.cwtinstitute.org/)
-<li>Led the geospatial analysis for combating wildlife trafficking efforts that resulted in conclusions benefiting the protection of African Elephant in Dzanga Sangha Protected Area in Central African Republic using ArcGIS products</li>
-<li>Created surveys using Survey123 to aid in daily field data collection by the rangers. </li>
-<li>Uploaded and maintained data to Online GIS portal; performed relevant analysis and created informative maps. </li><br>
-
-
 **06/2021 - 08/2022**<br>
 **Graduate Thesis** at [Saint Louis Universtiy](https://www.slu.edu/)
 <li>Creation of a Land Cover map for forest conservation using machine learning and deep learning algorithms. </li>
@@ -63,6 +48,19 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 <li>Spatiotemporal analysis of change in the protected reserve from 2010 to 2019.</li>
 <li>Understanding of Human Geography around the reserve. </li>
 <li>Documented stages of the project.</li>
+
+**11/2019 - 08/2021**<br>
+**Student Worker** at [Saint Louis University](https://www.slu.edu/)
+<li>Creation of False Colour Faster Visualizations for multiple locations within Missouri (which are displayed at the University).</li>
+<li>Creation of an open-source web application for the purpose of resource distribution after disasters. /li>
+<li>UAV image processing- creating image mosaic, DEM generation.</li>
+<li>Digitizing of field layout using RGB immagery. </li>
+
+**01/2019 - 05/2019**<br>
+**Lead Geospatial Intern** at [Countering Wildlife Trafficking Institute](https://www.cwtinstitute.org/)
+<li>Led the geospatial analysis for combating wildlife trafficking efforts that resulted in conclusions benefiting the protection of African Elephant in Dzanga Sangha Protected Area in Central African Republic using ArcGIS products</li>
+<li>Created surveys using Survey123 to aid in daily field data collection by the rangers. </li>
+<li>Uploaded and maintained data to Online GIS portal; performed relevant analysis and created informative maps. </li>
 
 
 Skills
