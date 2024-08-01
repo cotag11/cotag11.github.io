@@ -10,10 +10,36 @@ redirect_from:
 {% include base_path %}
 
 <h2>Forest Conservation with Deep Learning</h2>
-This project involved creating a land use land cover map for Betampona Nature Reserve in Madagascar. The objectives were to develop end-to-end mapping of the tropical forest using fully convolution neural networks (FCNNs) with WorldView-3 (WV-3) imagery and to evaluate human impact on the environment using the Betampona Nature Reserve (BNR) in Madagascar. FCNN (U-Net) using spatial/textural information was implemented and compared with pixel-based methods including Support Vector Machine (SVM), Random Forest (RF), and Deep Neural Network (DNN). [Click here](https://www.mdpi.com/2072-4292/13/17/3495) to read more about the research. 
+This research involved creating a land use land cover map for Betampona Nature Reserve in Madagascar. The objectives were to develop an end-to-end mapping of the tropical forest using fully convolution neural networks (FCNNs) using WorldView-3 (WV-3) imagery and secondly to quanify the human impact on the environment. The FCNN (U-Net) model which used spatial/textural information was compared with pixel-based methods including Support Vector Machine (SVM), Random Forest (RF), and Deep Neural Network (DNN). Spatiotemporal analysis was also conducted using the results of this research and a previously generated land use land cover map. This analysis showed a 0.7% increase in Evergreen Forest within the BNR and a 32% increase in tree cover within residential areas likely due to forest regeneration and conservation efforts. 
+[Click here](https://www.mdpi.com/2072-4292/13/17/3495) to read more about the research. 
+<head>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse; /* Ensures no double borders */
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+            border: none; /* Removes the borders from cells */
+        }
+        img {
+            max-width: 100px;
+            height: auto;
+        }
+    </style>
+  </head>
+<body>
+  <table>
+    <tr>
+        <td><img src='/images/graphical.png'> </td>
+        <td><img src='/images/change.png' >  </td>
+    </tr>
+  </table>
+</body>
 <div class="image-container">
-<img src='/images/graphical.png' style="width: auto; height: 300px; margin-right: 10px;"> 
-<img src='/images/change.png' style="width: auto; height: 300px; margin-right: 10px;"> 
+<img src='/images/graphical.png'> 
+<img src='/images/change.png' > 
 </div>
 
 <h2>Missouri as Art</h2>
