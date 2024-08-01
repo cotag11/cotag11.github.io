@@ -1,19 +1,20 @@
 ---
 permalink: /
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "About- Gizelle Cota"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About
-======
-Experience with managing an entire organizations enterprise GIS database and associated analytics. Proactively created dynamic web applications for both internal and external use. Proficient with python and SQL for data management and analytics. Adept with working with imagery acquired from UAVs and experienced with drone data collection and ground-based data collection methods. Published original thesis work using machine learning methods applied to raster imagery and geospatial analytics. Graduated from Saint Louis University with a master’s in Geographic Information Science. Received an undergraduate degree in Geology with honours in Physics. Excellent at problem solving and attention to detail. Currently focused on imagery-based analytics and research. 
-
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Hello! Welcome to my website dedicated to showcase a few geospatial and remote sensing projects I've completed in my professional career. <br>
+I'm a GIS professional, but I have experiece with working with imagery datasets as well. In my past roles, I've managed an entire organizations enterprise geodatabase and the associated analytics. I proactively created dynamic web applications for both internal and external use. I'm proficient with python and some familiarity with SQL for data management and analytics. I'm adept with working with imagery acquired from UAVs and have experience with drone data collection and ground-based data collection methods. I've created training materials on GIS and remote sensing and mentored students on how they could incorporate geospatial data and methods in their respective research areas. I published my graduate thesis work that applied machine learning methods to raster imagery and conducted geospatial analytics on the resulting land use land cover map. I graduated from Saint Louis University with a master’s in Geographic Information Science, and received an undergraduate degree in Geology with honours in Physics. Currently focused on imagery-based analytics and research. 
+<br>
+I have around 3 years of experience of using both geospatial analysis and remote sensing methods for a variety of applications including conservation, economic development and agriculture. 
+<br>
+If you have any questions about any of the projects listed on the [GIS](https://cotag11.github.io/GIS/) or [Remote Sensing](https://cotag11.github.io/RemoteSensing/) pages, please send me an email. I'll be delighted to hear from you and explore how we can work together. 
 
 
+<br>
+<br>
+*last updated in 2024
