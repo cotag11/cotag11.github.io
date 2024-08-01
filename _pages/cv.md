@@ -28,9 +28,9 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 **01/2022 - 04/2023**<br>
 **GIS Analyst** at [Saint Louis Development Corporation](https://www.developstlouis.org/)
 <li>Managing data on an ArcGIS Enterprise Server; querying data on the SQL Server. </li>
-<li>Leveraging ESRI technology to create an [ARPA (American Rescue Plan Act) transparency portal](https://cotag11.github.io/GIS/). </li>
+<li>Leveraging ESRI technology to create an <a href="https://cotag11.github.io/GIS/">ARPA (American Rescue Plan Act) transparency portal</a>. </li>
 <li>Manipulating existing data to determine Parcel Ownership within the City. </li>
-<li>Maintaining and creating [web applications](https://cotag11.github.io/GIS/) and maps for both internal and external use.</li>
+<li>Maintaining and creating <a href="https://cotag11.github.io/GIS/">web applications</a> and maps for both internal and external use.</li>
 <li>Creating and implementing workflows for repetitive tasks; Using model builder to automate data updates.</li>
 
 **11/2021 - 01/2022**<br>
@@ -43,7 +43,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 
 **06/2021 - 08/2022**<br>
 **Graduate Thesis** at [Saint Louis Universtiy](https://www.slu.edu/)
-<li>Creation of a Land Cover map for [forest conservation](https://cotag11.github.io/RemoteSensing/) using machine learning and deep learning algorithms. </li>
+<li>Creation of a Land Cover map for <a href="https://cotag11.github.io/RemoteSensing/">forest conservation</a> using machine learning and deep learning algorithms. </li>
 <li>Compared various pixel-based algorithms with deep learning methods though rigorous scientific hypothesis testing. </li>
 <li>Spatiotemporal analysis of change in the protected reserve from 2010 to 2019.</li>
 <li>Understanding of Human Geography around the reserve. </li>
@@ -51,7 +51,7 @@ M.S. in Geographic Information Science, Saint Louis University, 2021
 
 **11/2019 - 08/2021**<br>
 **Student Worker** at [Saint Louis University](https://www.slu.edu/)
-<li>Creation of [False Colour Faster Visualizations](https://cotag11.github.io/RemoteSensing/) for multiple locations within Missouri.</li>
+<li>Creation of <a href="https://cotag11.github.io/RemoteSensing/">False Colour Faster Visualizations</a> for multiple locations within Missouri.</li>
 <li>Creation of an open-source web application for the purpose of resource distribution after disasters. </li>
 <li>UAV image processing- creating image mosaic, DEM generation.</li>
 <li>Digitizing of field layout using RGB immagery. </li>
