@@ -21,19 +21,25 @@ Read the [published research](https://www.mdpi.com/2072-4292/13/17/3495) or inte
 <h2>Missouri as Art</h2>
 Similar to the [Earth as Art](https://eros.usgs.gov/media-gallery/earth-as-art) image collection, the below images were created for various locations in Missouri. 
 <br>The below False Color Images (FCC) are created by displaying any bands other than the Red, Green and Blue in the respective red, green and blue channels of the computer. By displaying bands other than the visible, we can see the unseen. False Color images are used to highlight certain features; for example, the combination (NIR, R, G) highlights vegetation in shades of red. <br>
-
+     
+     
 <head>
    <style>
         .image-container {
             display: flex;
             justify-content: space-around;
+          flex-wrap: wrap; /* Allows images to wrap if necessary */
         }
         .image-item {
             text-align: center;
+          flex: 1;
+            max-width: 33%; /* Ensure that each image-item takes up one-third of the container width */
+            box-sizing: border-box;
+            padding: 10px; /* Adds space around each image-item */
         }
         .image-item img {
             max-width: 100%;
-            height: auto;
+            height: 300px; 
         }
         .image-item p {
             margin: 0;
