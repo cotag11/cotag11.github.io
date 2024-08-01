@@ -21,7 +21,7 @@ Read the [published research](https://www.mdpi.com/2072-4292/13/17/3495) or inte
 <h2>Missouri as Art</h2>
 Similar to the [Earth as Art](https://eros.usgs.gov/media-gallery/earth-as-art) image collection, the below images were created for various locations in Missouri. 
 <br>The below False Color Images (FCC) are created by displaying any bands other than the Red, Green and Blue in the respective red, green and blue channels of the computer. By displaying bands other than the visible, we can see the unseen. False Color images are used to highlight certain features; for example, the combination (NIR, R, G) highlights vegetation in shades of red. <br>
-(Click here)[https://github.com/MissouriView/Missouri-as-Art/] to view more images created as part of this series. 
+
 <head><style>
         table {width: 100%; border-collapse: collapse; border: none;/* Ensures no double borders */ }
         th, td {padding: 8px; text-align: center; border: none; /* Removes the borders from cells */}
@@ -41,5 +41,7 @@ Similar to the [Earth as Art](https://eros.usgs.gov/media-gallery/earth-as-art) 
 </td>
 <td>This image is not a false color composite, as it was created using a single TIR1 band (band 10) from Sentinel-2 data. A color scheme is used to display the at-surface brightness temperature. The urban concrete areas in the city have a higher surface temperature, while Forest Park and other larger parks have a comparatively lower tempwerature, a good visualization of the importance of green spaces in our urban environments. This image also captured the cooler clouds. 
 </td></tr></table></body>
-
+To see more images created as part of this series, [click here](https://github.com/MissouriView/Missouri-as-Art/). 
+<br>
+<br>
 *last updated in 2024
