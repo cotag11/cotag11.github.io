@@ -35,17 +35,15 @@ The below False Color Images (FCC) are created by displaying any bands other tha
         <td><img src='/images/stl.png' style="width: 500px; height: auto; margin-right: 10px;"> </td>
     </tr>
     <tr>
-        <td>This band combination highlights undulating terrain in south-eastern Missouri. Vegetation is seen in green because of the high reflectance in NIR (Near Infrared), exposed rocks are colored red due to SWIR 2 (Shortwave Infrared) bands. Finally, exposed sediments are in shades of pink due to SWIR 2 and Red Edge 1. 
+<td>This band combination highlights undulating terrain in south-eastern Missouri. Vegetation is seen in green because of the high reflectance in NIR (Near Infrared), exposed rocks are colored red due to SWIR 2 (Shortwave Infrared) bands. Finally, exposed sediments are in shades of pink due to SWIR 2 and Red Edge 1. 
 <br>Sentinel-2: SWIR 2, NIR, Red Edge 1 (B12, B8, B5)
 <br>Date Acquired: October 22nd, 2015
 </td>
-        <td>This band combination highlights patterns observed in a residential cul-de-sac in O’Fallon, Saint Charles county. The paved roads and concrete structures have a high reflectance in Red and Red Edge 2 resulting in the orange color. Vegetation has a high reflectance in the NIR (Near Infrared) and thus appears in shades of blue. 
-<br>Sentinel-2: Red , Red Edge 2, NIR (B4, B6, B8)
+<td>This band combination highlights patterns observed in a residential cul-de-sac in O’Fallon, Saint Charles county. The paved roads and concrete structures have a high reflectance in Red and Red Edge 2 resulting in the orange color. Vegetation has a high reflectance in the NIR (Near Infrared) and thus appears in shades of blue. 
+<br>Sentinel-2: Red, Red Edge 2, NIR (B4, B6, B8)
 <br>Date Acquired: May 20th, 2016
 </td>
-        <td>These images are created using a single band. A color scheme is used to display the at-surface brightness temperature, created using TIR1 band (band 10). St Louis city is hotter while the clouds are at lower temperatures. The image shows the clouds created using the cirrus band. Even thinner clouds can be seen through this band, not possible with any image visualizations. 
-</td>
-    </tr>
-</table>
-</body>
+<td>These images are created using a single band. A color scheme is used to display the at-surface brightness temperature, created using TIR1 band (band 10). St Louis city is hotter while the clouds are at lower temperatures. The image shows the clouds created using the cirrus band. Even thinner clouds can be seen through this band, not possible with any image visualizations. 
+</td></tr></table></body>
+
 (Click here)[https://github.com/MissouriView/Missouri-as-Art] to view more images created as part of this series. 
