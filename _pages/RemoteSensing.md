@@ -11,10 +11,11 @@ redirect_from:
 
 <h2>Forest Conservation with Deep Learning</h2>
 This research involved creating a land use land cover map for Betampona Nature Reserve in Madagascar. The objectives were to develop an end-to-end mapping of the tropical forest using fully convolution neural networks (FCNNs) using WorldView-3 (WV-3) imagery and secondly to quanify the human impact on the environment. The FCNN (U-Net) model which used spatial/textural information was compared with pixel-based methods including Support Vector Machine (SVM), Random Forest (RF), and Deep Neural Network (DNN). Spatiotemporal analysis was also conducted using the results of this research and a previously generated land use land cover map. This analysis showed a 0.7% increase in Evergreen Forest within the BNR and a 32% increase in tree cover within residential areas likely due to forest regeneration and conservation efforts. <br>
-[Click here](https://www.mdpi.com/2072-4292/13/17/3495) to read more about the research. <br>
+Read the [published research here](https://www.mdpi.com/2072-4292/13/17/3495). <br>
+A [Story Map](https://storymaps.arcgis.com/stories/1d494c409f1e4ee99dc7133d27ab957a) based on this research was also created. <br>
 <div>
 <img src='/images/graphical.png' style='height:300px'> 
-<img src='/images/change.png' style='height:300px'> 
+<img src='/images/change.png' style='height:300px, width:auto'> 
 </div>
 
 <h2>Missouri as Art</h2>
@@ -37,7 +38,7 @@ Similar to the [Earth as Art](https://eros.usgs.gov/media-gallery/earth-as-art) 
 <br>Sentinel-2: Red, Red Edge 2, NIR (B4, B6, B8)
 <br>Date Acquired: May 20th, 2016
 </td>
-<td>These images are created using a single band. A color scheme is used to display the at-surface brightness temperature, created using TIR1 band (band 10). St Louis city is hotter while the clouds are at lower temperatures. The image shows the clouds created using the cirrus band. Even thinner clouds can be seen through this band, not possible with any image visualizations. 
+<td>This image is not a false color composite, as it was created using a single TIR1 band (band 10) taken from Sentinel-2 data. A color scheme is used to display the at-surface brightness temperature to highlight the stark differnces in temperature between the city and surrounding areas. The urban concrete areas in the city have a higher surface temperature, while Forest Park and other larger parks have a comparatively lower tempwerature, a good visualization of the importance of green spaces in our urban environments. Taken from space, this image also captured the cooler clouds. 
 </td></tr></table></body>
 
 (Click here)[https://github.com/MissouriView/Missouri-as-Art] to view more images created as part of this series. 
