@@ -75,8 +75,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Sagan, V., Bhadra, S., and Cota, G. Forest Conservation with AI. (2021). In Sagan (ed), GeoAI for Everyone,  [https://github.com/MissouriView/Forest-Conservation-with-AI](https://github.com/MissouriView/Forest-Conservation-with-AI) 
+
+Cota, G., Sagan, V., Maimaitijiang, M., & Freeman, K. (2021). Forest Conservation with Deep Learning: A Deeper Understanding of Human Geography around the Betampona Nature Reserve, Madagascar. Remote Sensing, 13(17), 3495.
+
   
 *last updated in 2024
