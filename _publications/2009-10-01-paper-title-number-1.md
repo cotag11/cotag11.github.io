@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Forest Conservation with Deep Learning: A Deeper Understanding of Human Geography around the Betampona Nature Reserve, Madagascar"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Documenting the impacts of climate change and human activities on tropical rainforests is imperative for protecting tropical biodiversity and for better implementation of REDD+ and UN Sustainable Development Goals. Recent advances in very high-resolution satellite sensor systems (i.e., WorldView-3), computing power, and machine learning (ML) have provided improved mapping of fine-scale changes in the tropics. However, approaches so far focused on feature extraction or the extensive tuning of ML parameters, hindering the potential of ML in forest conservation mapping by not using textural information, which is found to be powerful for many applications. Additionally, the contribution of shortwave infrared (SWIR) bands in forest cover mapping is unknown. The objectives were to develop end-to-end mapping of the tropical forest using fully convolution neural networks (FCNNs) with WorldView-3 (WV-3) imagery and to evaluate human impact on the environment using the Betampona Nature Reserve (BNR) in Madagascar as the test site. FCNN (U-Net) using spatial/textural information was implemented and compared with feature-fed pixel-based methods including Support Vector Machine (SVM), Random Forest (RF), and Deep Neural Network (DNN). Results show that the FCNN model outperformed other models with an accuracy of 90.9%, while SVM, RF, and DNN provided accuracies of 88.6%, 84.8%, and 86.6%, respectively. When SWIR bands were excluded from the input data, FCNN provided superior performance over other methods with a 1.87% decrease in accuracy, while the accuracies of other models—SVM, RF, and DNN—decreased by 5.42%, 3.18%, and 8.55%, respectively. Spatial–temporal analysis showed a 0.7% increase in Evergreen Forest within the BNR and a 32% increase in tree cover within residential areas likely due to forest regeneration and conservation efforts. Other effects of conservation efforts are also discussed.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'MDPI'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Cota, G., Sagan, V., Maimaitijiang, M., & Freeman, K. (2021). Forest Conservation with Deep Learning: A Deeper Understanding of Human Geography around the Betampona Nature Reserve, Madagascar. Remote Sensing, 13(17), 3495.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
