@@ -21,7 +21,7 @@ The data behind this scorecard was queried using SQL, and automated using Python
 <img src='/images/communityscorecard.png'> <br> 
 <br> 
 
-**In addition to these public facing ones, I also created internal facing dashboards and applications**
+**In addition to these public facing ones, I also created internal facing dashboards and applications and conducted appropriate geospatial analyses**
 
 <br>
 *last updated in 2024
