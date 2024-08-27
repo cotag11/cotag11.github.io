@@ -20,7 +20,7 @@ This analysis was to determine which parcels were eligible for the side lot sale
 <img src='/images/sidelot3.png' style='height:500px'> 
 <img src='/images/sidelot4.png' style='height:500px'> 
 </div>
-<img src='/images/sidelot5.png' style='height:200px'> 
+<img src='/images/sidelot5.jpg' style='height:200px'> 
 
 
 <h2>ARPA Transparency Portal</h2>
