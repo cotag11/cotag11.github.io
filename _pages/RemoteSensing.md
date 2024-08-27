@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+<h2>Mapping Annual Deforestation in Madagascar</h2>
+This research attempts to bridge that gap and compute annual forest cover change over time from 2015 to 2019 using an automated land cover mapping method. Land cover maps are most commonly created through the classification of remotely sensed images which can be easily computed on a cloud-based platform like GEE, Google Earth Engine. Availability of relevant imagery data on the platform itself and ability to analyze data allows for an automated and repeatable workflow. Spectral, and extracted features derived from Landsat 8 imagery, along with environmental variables (DEM, soil type) are used as inputs into the classification model. The generated classification maps were then compared to compute annual forest change.
+<div>
+<img src='/images/land cover 2019.png' style='height:300px'> 
+<img src='/images/forest cover 2019.png' style='height:300px'> 
+</div>
 
 <h2>Forest Conservation with Deep Learning</h2>
 This research involved creating a land use land cover map for Betampona Nature Reserve in Madagascar. The objectives were to develop an end-to-end mapping of the tropical forest using fully convolution neural networks (FCNNs) using WorldView-3 (WV-3) imagery and secondly to quanify the human impact on the environment. The FCNN (U-Net) model which used spatial/textural information was compared with pixel-based methods including Support Vector Machine (SVM), Random Forest (RF), and Deep Neural Network (DNN). Spatiotemporal analysis was also conducted using the results of this research and a previously generated land use land cover map. This analysis showed a 0.7% increase in Evergreen Forest within the BNR and a 32% increase in tree cover within residential areas likely due to forest regeneration and conservation efforts. <br>
