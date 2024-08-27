@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+<h2>Side Lot Sales Policy</h2>
+<br>
+This analysis was to determine which parcels were eligible for the side lot sales policy based on 3 conditions. (1) The property has to be available within the database, (2) its area has to be <4,000 sq feet and (3) not spatially contiguous to another property. 
+<div>
+<img src='/images/sidelot1.png' style='height:500px'> 
+<img src='/images/sidelot2.png' style='height:500px'> 
+</div>
+<div>
+<img src='/images/sidelot3.png' style='height:500px'> 
+<img src='/images/sidelot4.png' style='height:500px'> 
+</div>
+<img src='/images/sidelot5.png' style='height:200px'> 
+
+
 <h2>ARPA Transparency Portal</h2>
 <br>
 This [interactive dashboard](https://insights.arcgis.com/#/view/2f02aea33af84a8381c78d4de648f67c) was created through ArcGIS Insights. It serves as the transparency portal for appropriations, programmed funds and expenditures as it relates to the American Rescue Plan Act projects. <br>
