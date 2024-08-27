@@ -11,8 +11,8 @@ redirect_from:
 <h2>Mapping Annual Deforestation in Madagascar</h2>
 This research attempts to bridge that gap and compute annual forest cover change over time from 2015 to 2019 using an automated land cover mapping method. Land cover maps are most commonly created through the classification of remotely sensed images which can be easily computed on a cloud-based platform like GEE, Google Earth Engine. Availability of relevant imagery data on the platform itself and ability to analyze data allows for an automated and repeatable workflow. Spectral, and extracted features derived from Landsat 8 imagery, along with environmental variables (DEM, soil type) are used as inputs into the classification model. The generated classification maps were then compared to compute annual forest change.
 <div>
-<img src='/images/land cover 2019.png' style='height:300px'> 
-<img src='/images/forest cover 2019.png' style='height:300px'> 
+<img src='/images/land cover 2019.png' style='height:500px'> 
+<img src='/images/forest cover 2019.png' style='height:500px'> 
 </div>
 
 <h2>Forest Conservation with Deep Learning</h2>
