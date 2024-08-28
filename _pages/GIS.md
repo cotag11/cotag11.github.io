@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Side Lot Sales Policy Eligibility Analysis</h2>
-This analysis was to determine which parcels were eligible for the side lot sales policy based on 3 conditions. (1) The property has to be available within the database, (2) its area has to be < 4,000 sq feet and (3) not spatially contiguous to another property. 
-
+This analysis was to determine which parcels were eligible for the side lot sales policy based on 3 conditions. (1) The property has to be available within the database, (2) its area has to be < 4,000 sq feet and (3) not spatially contiguous to another property. <br>
 The below images identifies the first two conditions via the hatched symbol. To determine eligibility for contiguity, a buffer of a buffer was used to de-select parcels. See the below image (right).
 <div>
 <img src='/images/sidelot1.png' style='height:300px'> 
@@ -23,7 +22,7 @@ Because data is not always consistent, there are issues with this analyses where
 <img src='/images/sidelot4.png' style='height:300px'> 
 </div>
 The workflow below would need to be modified to correct for these errors. 
-<img src='/images/sidelot5.jpg' style='height:200px'> 
+<img src='/images/sidelot5.jpg'> 
 
 
 <h2>ARPA Transparency Portal Dashboard</h2>
@@ -31,7 +30,7 @@ This [interactive dashboard](https://insights.arcgis.com/#/view/2f02aea33af84a83
 <img src='/images/arpa.png'> <br> 
 
 <h2>Community Benefits Scorecard Application</h2>
-This [Community Benefit Scorecard](https://experience.arcgis.com/experience/59fdb098b25146bca7063802e1bb3c2a/page/Residential/?draft=true) was created to inform the Economic Development Incentives team about how each potenial project scored against the pre-determined variables and depending on which category they fall under- Residential, Commercial or Mixed Use. The variables considered while creating the score are transit access, whether or not it is a vacant building, its location etc. There is a maximum number of points available for each of these variables. <br>
+This [Community Benefit Scorecard](https://experience.arcgis.com/experience/59fdb098b25146bca7063802e1bb3c2a/page/Residential/?draft=true) was created to inform the Economic Development Incentives team about how each potenial project scored against the pre-determined variables and depending on which category they fall under- Residential, Commercial or Mixed Use. It is a point based system for determining abatement terms and abatement level for each potential project that would be shared with developers. The variables considered while creating the score are transit access, whether or not it is a vacant building, its location etc. There is a maximum number of points available for each of these variables. <br>
 The data behind this scorecard was queried using SQL, and automated using Python and windows task scheduler.  <br>
 <img src='/images/communityscorecard.png'> <br> 
 <br> 
